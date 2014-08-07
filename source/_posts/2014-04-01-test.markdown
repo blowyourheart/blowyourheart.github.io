@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "test"
+title: "我的第一篇page博客"
 date: 2014-04-01 19:01:55 +0800
 comments: true
 categories: 
 ---
+
+#搭建page博客的方法
 
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[王群的博客]]></title>
+  <link href="http://blowyourheart.github.io/atom.xml" rel="self"/>
+  <link href="http://blowyourheart.github.io/"/>
+  <updated>2014-04-14T11:32:29+08:00</updated>
+  <id>http://blowyourheart.github.io/</id>
+  <author>
+    <name><![CDATA[Wang Qun]]></name>
+    <email><![CDATA[wangqunwhuhb@126.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://blowyourheart.github.io/blog/2014/04/01/test/"/>
+    <updated>2014-04-01T19:01:55+08:00</updated>
+    <id>http://blowyourheart.github.io/blog/2014/04/01/test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
